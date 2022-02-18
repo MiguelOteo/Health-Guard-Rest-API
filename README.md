@@ -13,7 +13,7 @@
 
 ## 1. Introduction
 
-This is part of a project to create a health monitoring app for the phone, this repository contains all the files regarding the Rest API, in the php folder, and the database strecture squema in the sql folder.
+This is part of a project to create a health monitoring app for the phone, this repository contains all the files regarding the Rest API, in the php folder, and the database structure squema in the sql folder.
 
 ### Project Repositories
 
