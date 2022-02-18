@@ -15,6 +15,11 @@
 
 This is part of a project to create a health monitoring app for the phone, this repository contains all the files regarding the Rest API, in the php folder, and the database strecture squema in the sql folder.
 
+### Project Repositories
+
+1. Health-Guard-Android-App: https://github.com/MiguelOteo/Health-Guard-Android-App
+2. Health-Guard-Rest-API: https://github.com/MiguelOteo/Health-Guard-Rest-API
+
 -------------------------------
 -------------------------------
 
